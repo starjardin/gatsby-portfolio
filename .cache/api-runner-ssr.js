@@ -1,9 +1,6 @@
 var plugins = [{
-      plugin: require('/home/phoenix/Desktop/gatsby-bootcamp-project/node_modules/gatsby-plugin-typography/gatsby-ssr'),
+      plugin: require('/home/student/Coding/projects/gatsby/gatsby-portfolio/node_modules/gatsby-plugin-typography/gatsby-ssr'),
       options: {"plugins":[],"pathToConfigModule":"src/utils/typography"},
-    },{
-      plugin: require('/home/phoenix/Desktop/gatsby-bootcamp-project/node_modules/gatsby-remark-images/gatsby-ssr'),
-      options: {"plugins":[],"maxWidth":750,"linkImagesToOriginal":false},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [
