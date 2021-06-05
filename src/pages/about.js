@@ -9,8 +9,6 @@ const Aboutpage = () => {
 			site {
 				siteMetadata {
 					githubUsername
-					twitterUsername
-					linkedInUsername
 				}
 			}
 		}
@@ -21,8 +19,9 @@ const Aboutpage = () => {
 			<div>
 				<h2>About me</h2>
 				<p>
-					Hi ! I am <strong>Aman Kumar</strong> a Web enthusiast and Junior year student at IIT Patna. I like
-					to spend my leisure time working on web projects.
+					Hi ! I am <strong>Tantely Andry</strong> a web developer form on Madagascar, interested in working
+					with any teams. Eager to learn and help to turn your idea into reality. I like to spend my leisure
+					time working on web projects.
 				</p>
 				<br />
 				<h3 id='around-the-web'>Around the web</h3>

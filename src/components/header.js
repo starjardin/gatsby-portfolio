@@ -24,12 +24,12 @@ const Header = () => {
 					</li>
 					<li>
 						<Link to='/about' activeClassName={headerStyles.active_nav_list}>
-							Me
+							About me
 						</Link>
 					</li>
 					<li>
 						<Link to='/blog' activeClassName={headerStyles.active_nav_list}>
-							Article
+							Projects
 						</Link>
 					</li>
 					<li>
