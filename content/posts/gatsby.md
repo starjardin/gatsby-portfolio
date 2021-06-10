@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Gatsby Bootcamp"
 thumbnail: "../thumbnails/js.png"
 date: "2019-07-10"
@@ -15,4 +15,4 @@ I just launched a new Bootcamp
 
 1. Gatsby
 2. GraphQL
-3. React
+3. React -->
