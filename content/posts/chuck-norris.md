@@ -2,6 +2,7 @@
 title: "Chuck Norris Jokes"
 date: "2021-06-02"
 thumbnail: "../thumbnails/chuck-norris.png"
+language: "../thumbnails/react.png"
 tags:
   - "TypeScript"
 ---

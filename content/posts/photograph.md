@@ -2,6 +2,7 @@
 title: "Photograph"
 date: "2020-09-15"
 thumbnail: "../thumbnails/photograph.jpg"
+language: "../thumbnails/react.png"
 tags:
   - "Html5 and CSS3"
 ---

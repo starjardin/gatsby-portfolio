@@ -1,6 +1,6 @@
 import React from "react"
 import Layout from "../components/layout"
-import { graphql, Link } from "gatsby"
+import { graphql } from "gatsby"
 import "../components/modules/post.scss"
 import Helmet from "react-helmet"
 import Img from "gatsby-image"
@@ -17,7 +17,7 @@ export const query = graphql`
   }
 `
 const Blog = props => {
-  const { frontmatter, html, fields } = props.data.markdownRemark
+  const { frontmatter, html } = props.data.markdownRemark
   const { title, date, tags, thumbnail } = frontmatter
   return (
     <Layout>

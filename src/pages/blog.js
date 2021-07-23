@@ -25,7 +25,6 @@ const BlogPage = () => {
     }
   `)
   const { edges } = data.allMarkdownRemark
-  // console.log(edges)
   return (
     <Layout>
       <Helmet title={`Articles - ${config.userName}`} />

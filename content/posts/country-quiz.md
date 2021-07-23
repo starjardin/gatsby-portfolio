@@ -2,6 +2,7 @@
 title: "Country quiz"
 date: 2020-11-03T01:58:30
 thumbnail: "../thumbnails/country.jpg"
+language: "../thumbnails/react.png"
 template: "new"
 tags:
   - "React"
