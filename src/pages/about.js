@@ -19,10 +19,9 @@ const Aboutpage = () => {
       <div>
         <h2>About me</h2>
         <p>
-          Hi ! I am <strong>Tantely Andry</strong> a web developer form
-          Madagascar, interested in working with any teams. Eager to learn and
-          help to turn your idea into reality. I like to spend my leisure time
-          working on web projects.
+          Hi ! I'm <strong>Tantely Andry</strong> a web developer form
+          Madagascar, interested in working with any teams. Eager to learn. I
+          like to spend my leisure time working on web projects.
         </p>
         <br />
         <h3 id="around-the-web">Around the web</h3>

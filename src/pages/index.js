@@ -7,19 +7,7 @@ import "../styles/index.scss"
 import config from "../../data/siteConfig"
 
 const ProfileStyles = styled.div`
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 20px;
-  img {
-    width: 20vw;
-    height: 20vw;
-    border-radius: 50%;
-  }
-
-  @media (max-width: 500px) {
-    flex-direction: column;
-  }
+  display: block;
 `
 
 const HeaderStyles = styled.h1`
@@ -35,18 +23,16 @@ const Indexpage = () => {
       <div>
         <HeaderStyles>Hi, I am Tantely</HeaderStyles>
         <ProfileStyles>
-          <img src="https://iili.io/Bp6vVI.jpg" alt="author" />
           <p>
-            I'm a web developer specializing in modern javascript. I like to
-            make things from scratch, contribute to open source, and write about
-            latest development in web technology.
+            I'm a web developer specializing in HTML5, CSS3, modern javaScript,
+            React. I like to make things from scratch.
           </p>
         </ProfileStyles>
         <p>
-          I am joining Onja team in Madagascar. Onja is a team of young malagasy
+          I'm part of Onja team in Madagascar. Onja is a team of young malagasy
           people that are intelligent, underprivileged and craving for education
           to boost Madagascar's development by working on tech. We want
-          collaboration with any people any company in the world. Preferably
+          collaboration with people, any company in the world. Preferably
           working remotely.
         </p>
       </div>

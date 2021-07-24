@@ -19,6 +19,7 @@ export const query = graphql`
 const Blog = props => {
   const { frontmatter, html } = props.data.markdownRemark
   const { title, date, tags, thumbnail } = frontmatter
+
   return (
     <Layout>
       <Helmet title={title} />
@@ -28,7 +29,11 @@ const Blog = props => {
           <h2 className={`head_title`}>{title}</h2>
           <p>
             <span className={`date`}>{date}</span>
-            <span>This site is build with {tags}</span>
+            <span>
+              This {tags.join("").includes("Native") ? "app" : "site"} is built
+              with
+              {tags}
+            </span>
           </p>
         </div>
       </div>
