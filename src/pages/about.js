@@ -19,7 +19,7 @@ const Aboutpage = () => {
       <div>
         <h2>About me</h2>
         <p>
-          Hi ! I'm <strong>Tantely Andry</strong> a web developer form
+          Hi ! I'm <strong>Tantely Andrianarivola</strong> a web developer form
           Madagascar, interested in working with any teams. Eager to learn. I
           like to spend my leisure time working on web projects.
         </p>
