@@ -26,7 +26,7 @@ const Contact = () => {
           I build websites and mobile apps related to HTML5, CSS3, JavaScript,
           React, React Native, typescript and Various useful Api. For state
           management I use React context api and Redux. Workflow I use gitBash
-          and github. I am craving to learn more about technologies that can
+          and github. I'm craving to learn more about technologies that can
           improve my productivity and efficiency such as testing, typescript,
           other ways of managing workflow.
         </p>

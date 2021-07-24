@@ -14,7 +14,7 @@ const config = {
   userLocation: "Madagascar", // User location to display in the author segment.
   userAvatar: "", // User avatar to display in the author segment.
   userDescription:
-    "Yeah, I like traveling. I just enjoy seeing new places. I am always passionate about new things, so that is why traveling to a new place is my favourite... I like meeting strangers because it broaden my visions of understanding people. I am not really fan of watching movies but I ok with it, I prefer reading books instead. It is preferable for to live in a peaceful house, surrounded by green spaces would be the best - my dream house.",
+    "Yeah, I like traveling. I just enjoy seeing new places. I'm always passionate about new things, so that is why traveling to a new place is on of my favourites... I like meeting strangers because it broaden my visions of understanding people. I'm not really fan of watching movies but I'm ok with it, I prefer reading books instead. It is preferable for to live in a peaceful house, surrounded by green spaces would be the best - my dream house.",
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {

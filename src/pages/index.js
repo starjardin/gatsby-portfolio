@@ -21,7 +21,7 @@ const Indexpage = () => {
     <Layout>
       <Helmet title={config.siteTitle} />
       <div>
-        <HeaderStyles>Hi, I am Tantely</HeaderStyles>
+        <HeaderStyles>Hi, I'm Tantely</HeaderStyles>
         <ProfileStyles>
           <p>
             I'm a web developer specializing in HTML5, CSS3, modern javaScript,
