@@ -23,12 +23,12 @@ const Contact = () => {
       <div>
         <h2 className={contactStyle.title}>Stay in touch</h2>
         <p>
-          I build websites and mobile apps related to HTML5, CSS3, JavaScript,
-          React, React Native, typescript and Various useful Api. For state
-          management I use React context api and Redux. Workflow I use gitBash
-          and github. I'm craving to learn more about technologies that can
-          improve my productivity and efficiency such as testing, typescript,
-          other ways of managing workflow.
+          I build websites and mobile apps using HTML5, CSS3, JavaScript, React,
+          React Native, typescript and various useful APIs. I use React context
+          API and Redux for state management, GitBash and GitHub for workflow.
+          I'm eager to put my knowledge into practice and see it in action but
+          also open to learning more about technologies that can boost my
+          productivity and work efficiency.
         </p>
         <p className={contactStyle.subtitle}>
           You can contact me via email or find me around the web.

@@ -24,16 +24,16 @@ const Indexpage = () => {
         <HeaderStyles>Hi, I'm Tantely</HeaderStyles>
         <ProfileStyles>
           <p>
-            I'm a web developer specializing in HTML5, CSS3, modern javaScript,
-            React. I like to make things from scratch.
+            I'm a web developer specializing in HTML5, CSS3, modern JavaScript,
+            React. I like creating things from scratch.
           </p>
         </ProfileStyles>
         <p>
-          I'm part of Onja team in Madagascar. Onja is a team of young malagasy
-          people that are intelligent, underprivileged and craving for education
-          to boost Madagascar's development by working on tech. We want
-          collaboration with people, any company in the world. Preferably
-          working remotely.
+          I'm part of the social enterprise called Onja, in Madagascar. Onja is
+          a team of young intelligent Malagasy people who are eager to boost
+          Madagascar's development by working in tech through upskilling and
+          capacity building. We want to collaborate with people and companies
+          from anywhere in the world, preferably working remotely.
         </p>
       </div>
     </Layout>
