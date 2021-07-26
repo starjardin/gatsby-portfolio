@@ -1,5 +1,5 @@
 ---
-title: "TypeScript React App - Chuck Norris Joke Generator."
+title: "TypeScript React App - Chuck Norris Joke Generator"
 date: "2021-06-02"
 thumbnail: "../thumbnails/chuck-norris.png"
 language: "../thumbnails/react.png"

@@ -1,5 +1,5 @@
 ---
-title: "Photography website landing page."
+title: "Photography website landing page"
 date: "2020-09-15"
 thumbnail: "../thumbnails/photograph.jpg"
 language: "../thumbnails/react.png"

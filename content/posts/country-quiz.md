@@ -1,5 +1,5 @@
 ---
-title: "React App - Country quiz."
+title: "React App - Country quiz"
 date: 2020-11-03T01:58:30
 thumbnail: "../thumbnails/country.jpg"
 language: "../thumbnails/react.png"

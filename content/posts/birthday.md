@@ -1,5 +1,5 @@
 ---
-title: "Vanilla JS App - Birthday app."
+title: "Vanilla JS App - Birthday app"
 date: 2020-09-22T02:02:00
 thumbnail: "../thumbnails/birthday.jpg"
 language: "../thumbnails/react.png"

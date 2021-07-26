@@ -1,5 +1,5 @@
 ---
-title: "React Native Language learning App."
+title: "React Native Language learning App"
 date: "2021-07-02"
 thumbnail: "../thumbnails/learnGasy.png"
 language: "../thumbnails/react.png"
