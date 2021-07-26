@@ -31,8 +31,7 @@ const Blog = props => {
             <span className={`date`}>{date}</span>
             <span>
               This {tags.join("").includes("Native") ? "app" : "site"} is built
-              with
-              {tags}
+              with <b>{tags}</b>
             </span>
           </p>
         </div>

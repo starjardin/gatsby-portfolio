@@ -7,7 +7,7 @@ const UserLink = props => {
   const [github] = props.link
   return (
     <div>
-      <h2>Stay in touch</h2>
+      <h2>Get in touch</h2>
       <a
         href={`https://github.com/${github.username}`}
         target="_blank"

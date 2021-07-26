@@ -16,20 +16,12 @@ const Contact = () => {
       }
     }
   `)
-  const { Email, githubUsername: starjardin } = data.site.siteMetadata
+  const { githubUsername: starjardin } = data.site.siteMetadata
   return (
     <Layout>
       <Helmet title={`Contact - ${config.userName}`} />
       <div>
-        <h2 className={contactStyle.title}>Stay in touch</h2>
-        <p>
-          I build websites and mobile apps using HTML5, CSS3, JavaScript, React,
-          React Native, typescript and various useful APIs. I use React context
-          API and Redux for state management, GitBash and GitHub for workflow.
-          I'm eager to put my knowledge into practice and see it in action but
-          also open to learning more about technologies that can boost my
-          productivity and work efficiency.
-        </p>
+        <h2 className={contactStyle.title}>Get in touch</h2>
         <p className={contactStyle.subtitle}>
           You can contact me via email or find me around the web.
         </p>
@@ -42,7 +34,7 @@ const Contact = () => {
               className={contactStyle.link}
               href={`mailto:${data.site.siteMetadata.Email}`}
             >
-              {Email}
+              dev@onja.org
             </a>
           </li>
           <li>

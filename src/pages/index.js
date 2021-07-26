@@ -31,9 +31,9 @@ const Indexpage = () => {
         <p>
           I'm part of the social enterprise called Onja, in Madagascar. Onja is
           a team of young intelligent Malagasy people who are eager to boost
-          Madagascar's development by working in tech through upskilling and
-          capacity building. We want to collaborate with people and companies
-          from anywhere in the world, preferably working remotely.
+          Madagascar's development by upskilling and working in tech. We are
+          excited to collaborate with people and companies from anywhere in the
+          world, remotely.
         </p>
       </div>
     </Layout>

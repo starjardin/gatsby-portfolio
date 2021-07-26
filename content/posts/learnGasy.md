@@ -1,15 +1,15 @@
 ---
-title: "Learn Gasy"
+title: "React Native Language learning App"
 date: "2021-07-02"
 thumbnail: "../thumbnails/learnGasy.png"
 language: "../thumbnails/react.png"
 tags:
-  - "TypeScript & React Native"
+  - "TypeScript, React Native & Redux"
 ---
 
-This is a group project that we built. We wanted to practice our react native skills, so we wanted something that can be helpful. In this app you can learn both English and Malagasy. We thought it could be useful for both foreigners who want to learn malagasy and Malagasy people who are keen on learning English.
+I built this application along with three other developers. We wanted to explore react native while creating something useful. In this app you can learn both English and Malagasy, useful for both foreigners who want to learn malagasy and Malagasy people who are keen on learning English.
 
 <a href='https://github.com/starjardin/https://github.com/onja-org/malagasy-rn-Thallium'>Code</a>
-<a href='https://play.google.com/store/apps/details?id=com.learngasy&hl=en&gl=US'>You can find the app here</a>
+<a href='https://play.google.com/store/apps/details?id=com.learngasy&hl=en&gl=US'>You can install the app here</a>
 
 For now, It's only available for android, IOS will follow.

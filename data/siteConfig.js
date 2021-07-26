@@ -10,7 +10,7 @@ const config = {
   dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
   dateFormat: "DD/MM/YYYY", // Date format for display.
   userName: "Tantely", // Username to display in the author segment.
-  userEmail: "tantely.and@onja.org", // Email used for RSS feed's author segment
+  userEmail: "tantely@onja.org", // Email used for RSS feed's author segment
   userLocation: "Madagascar", // User location to display in the author segment.
   userAvatar: "", // User avatar to display in the author segment.
   userDescription:
