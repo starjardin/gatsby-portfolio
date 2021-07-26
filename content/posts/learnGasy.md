@@ -1,10 +1,10 @@
 ---
-title: "React Native Language learning App"
+title: "React Native Language learning App."
 date: "2021-07-02"
 thumbnail: "../thumbnails/learnGasy.png"
 language: "../thumbnails/react.png"
 tags:
-  - "TypeScript, React Native & Redux"
+  - "TypeScript, React Native & Redux."
 ---
 
 I built this application along with three other developers. We wanted to explore react native while creating something useful. In this app you can learn both English and Malagasy, useful for both foreigners who want to learn malagasy and Malagasy people who are keen on learning English.

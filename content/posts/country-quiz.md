@@ -1,11 +1,11 @@
 ---
-title: "React App - Country quiz"
+title: "React App - Country quiz."
 date: 2020-11-03T01:58:30
 thumbnail: "../thumbnails/country.jpg"
 language: "../thumbnails/react.png"
 template: "new"
 tags:
-  - "React"
+  - "React."
 ---
 
 In MONTH, 2020, after a month and half of learning React I built this site to put into practice what I had learned. I believe the best way to learn is by doing - so this was the perfect opportunity to do just that.
