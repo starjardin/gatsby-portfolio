@@ -19,7 +19,7 @@ const Aboutpage = () => {
       <div>
         <h2>About me</h2>
         <p>
-          I'm Tantely <strong>Andrianarivola</strong>, a web developer from
+          I'm <strong>Tantely Andrianarivola</strong>, a web developer from
           Madagascar, interested in working with any teams that will value my
           contribution. I like spending my spare time working on web projects,
           playing football, discussing ideas with friends, and trying new
