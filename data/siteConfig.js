@@ -1,5 +1,5 @@
 const config = {
-  siteTitle: "Gatsby", // Site title.
+  siteTitle: "Tantely", // Site title.
   siteShortDesc: "Gatsby advanced starter blog",
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
   siteUrl: "https://gatsby-portfolio-qhcubl459-starjardin.vercel.app/", // Domain of your website without pathPrefix.
