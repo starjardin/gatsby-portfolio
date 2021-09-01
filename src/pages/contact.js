@@ -34,7 +34,7 @@ const Contact = () => {
               className={contactStyle.link}
               href={`mailto:${data.site.siteMetadata.Email}`}
             >
-              dev@onja.org
+              tantely.and@onja.org
             </a>
           </li>
           <li>
